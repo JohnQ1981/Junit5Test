@@ -1,7 +1,7 @@
 /**
  * 
  */
-package projectvendingmachinent;
+package vendingmachine;
 
 /**
  * @author IK

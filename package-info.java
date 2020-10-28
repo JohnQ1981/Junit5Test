@@ -1,1 +1,1 @@
-package projectvendingmachinent;
+package vendingmachine;
